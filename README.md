@@ -1,12 +1,12 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Subhrajit! 👋
 
-Welcome to my GitHub profile! I'm passionate about [mention your interests, e.g., software development, data science, machine learning]. Here, you'll find a mix of personal projects, contributions to open-source, and more.
+Welcome to my GitHub profile! I'm passionate about software development. Here, you'll find a mix of personal projects, contributions to open-source, and more.
 
 ## About Me
 
-- 🌐 [Personal Website](https://www.yourwebsite.com)
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: [he/him, she/her, they/them, etc.]
+- 🌐 To be added
+- 📫 Reach me at [subhrajittalukdar411@gmail.com(mailto:subhrajittalukdar411@gmail.com)
+- 😄 Pronouns: he/him 
 
 ## 🔧 Technologies & Tools
 
@@ -18,24 +18,18 @@ Welcome to my GitHub profile! I'm passionate about [mention your interests, e.g.
 
 ### Project 1
 
-- 📂 [Repository](https://github.com/yourusername/project1)
-- 📝 Brief description of the project.
-
-### Project 2
-
-- 📂 [Repository](https://github.com/yourusername/project2)
-- 📝 Brief description of the project.
+//
 
 ## 🌱 I'm Currently Learning
 
-- [Topic 1](https://www.example.com)
-- [Topic 2](https://www.example.com)
+- Java
+- 
 
 ## 🤝 Let's Connect!
 
 Connect with me on these platforms:
 
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Twitter](https://twitter.com/subhrajitt7)
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
 - [Dev.to](https://dev.to/yourdevto)
 
