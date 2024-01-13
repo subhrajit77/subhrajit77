@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development. Here, y
 - 😄 Pronouns: he/him 
 
 ## 🔧 Technologies & Tools
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 [![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)](https://www.tech1.com)
 [![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)](https://www.tech2.com)
 [![Tech3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3&logoColor=white)](https://www.tech3.com)
