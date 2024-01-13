@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align="center" height="100" width="100" />
+<img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align="center" height="200" width="150" />
 </div>  
   
 
@@ -137,13 +137,10 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-</div>
+
+
 
