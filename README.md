@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development. Here, y
 ## About Me
 
 - 🌐 To be added
-- 📫 Reach me at [subhrajittalukdar411@gmail.com(mailto:subhrajittalukdar411@gmail.com)
+- 📫 Reach me at [Email (mailto:subhrajittalukdar411@gmail.com)
 - 😄 Pronouns: he/him 
 
 ## 🔧 Technologies & Tools
