@@ -28,6 +28,7 @@
 <a href="https://twitter.com/subhrajitt7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhrajitt7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subhrajittalukdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajittalukdar" height="30" width="40" /></a>
 <a href="https://instagram.com/captain__valentino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain__valentino" height="30" width="40" /></a>
+  <a href="https://discord.gg/subhrajit77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subhrajit77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
