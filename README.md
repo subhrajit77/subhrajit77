@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **subhrajittalukdar411@gmail.com**
 
-- ⚡ Fun fact: **I think I am funny but which is not :)**
+- ⚡ Fun fact: **I think I am funny but it's not :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
