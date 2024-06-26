@@ -24,7 +24,7 @@
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
-  <a href="www.linkedin.com/in/ subhrajittalukdar" target="_blank">
+  <a href="www.linkedin.com/in/subhrajittalukdar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/subhrajitt7" target="_blank">
