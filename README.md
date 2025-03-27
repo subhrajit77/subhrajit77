@@ -62,6 +62,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwind logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
