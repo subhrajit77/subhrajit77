@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/subhrajitt7" target="blank"><img src="https://img.shields.io/twitter/follow/subhrajitt7?logo=twitter&style=for-the-badge" alt="subhrajitt7" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development projects**
+- 🌱I’m currently working on **AI/Ml, Computer Vision projects**
 
-- 🌱 I’m currently learning **Frontend as well as backend technologies**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 💬 Ask me about **Java, C++, OOPS, React, Node**
+- 💬 Ask me about **Python, C++, OOPS, React, Node**
 
-- 📫 How to reach me **subhrajittalukdar411@gmail.com**
+- 📫 How to reach me **subhrajittalukdar48@gmail.com**
 
 - ⚡ Fun fact: **I think I am funny but it's not :)**
 
